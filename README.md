@@ -1,3 +1,6 @@
+
+![image](https://github.com/mngz47/Karma-Slots/assets/15697629/29863d41-ef64-4602-9758-9d5b0b5c70e4)
+
 Karma Slots is a simple slot machine game made in Javascript for HTML5 and canvas. It uses a simple "Reddit" inspired theme.
 
 License Info
