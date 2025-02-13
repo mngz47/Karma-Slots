@@ -16,6 +16,8 @@ Art by Clint Bellanger (CC-BY 3.0)
 
 */
 
+//Monetize credit sync line 432
+
 var FPS = 60;
 setInterval(function() {
   logic();
@@ -483,6 +485,9 @@ function calc_reward() {
 
   
   if (payout > 0) {
+
+syncCredits(payout);
+    
     try {
       snd_win.currentTime = 0;
       snd_win.play();
